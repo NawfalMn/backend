@@ -1,0 +1,12 @@
+livekit-agents>=0.11.0
+livekit-plugins-openai
+livekit-plugins-cartesia
+livekit-plugins-deepgram
+fastapi
+uvicorn
+python-dotenv
+websockets
+numpy
+opencv-python
+aiortc
+av
